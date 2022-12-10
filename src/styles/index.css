@@ -1,3 +1,21 @@
 body {
   font-size: 16px;
 }
+
+.submit-button-group{
+  display: flex;
+  justify-content: space-between;
+}
+
+Table{
+  margin: 20px;
+}
+
+img{
+  width: 60px;
+  height: 60px;
+}
+
+.error{
+  color: red;
+}
